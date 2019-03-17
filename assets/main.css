@@ -29,11 +29,13 @@ html {
   font-size: 16px;
   color: var(--black);
   text-shadow: 0 2px 0 rgba(0, 0, 0, 0.07);
+
 }
 
 body {
-  background-image: url("./images/topography.svg"),
-    linear-gradient(110deg, #00cccc, #6d47d9);
+  /* background-image: url("./images/topography.svg"),
+    linear-gradient(110deg, #00cccc, #6d47d9);*/
+  background-color: #5276ab;
   background-size: 340px, auto;
   min-height: calc(100vh - 100px);
   margin: 20px;
